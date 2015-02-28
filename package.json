@@ -20,7 +20,8 @@
     "hubot": "~2.11.1",
     "hubot-maps": "0.0.1",
     "hubot-motivate" : ">= 0.0.0",
-    "hubot-qr" : ">=0.0.0"
+    "hubot-qr" : ">=0.0.0",
+    "hubot-twitter" : ">=0.0.0"
   },
   "engines": {
     "node": "0.10.x"
